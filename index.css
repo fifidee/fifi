@@ -1,0 +1,100 @@
+.background-image {
+  background-image: url(/image/my\ restaurent.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-weight: bold;
+  height: 100vh;
+  align-items: center;
+  color: white;
+  font-size: xx-large;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  align-items: start;
+}
+
+.nav-items a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+.nav-items a:hover {
+  background-color: #555;
+}
+
+.head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+  margin: 20px;
+}
+
+img {
+  max-width: 35%;
+  height: 70vh;
+}
+
+.text-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  color: black;
+  justify-content: space-between;
+  margin: 20px;
+  font-size: large;
+  align-items: center;
+}
+
+.service1 {
+  width: 200px;
+  height: 300px;
+  background-color: pink;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 5px 20px;
+}
+
+.service2 {
+  width: 200px;
+  height: 300px;
+  background-color: pink;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 5px 20px;
+}
+
+.service3 {
+  width: 200px;
+  height: 300px;
+  background-color: pink;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 5px 20px;
+}/*# sourceMappingURL=index.css.map */
